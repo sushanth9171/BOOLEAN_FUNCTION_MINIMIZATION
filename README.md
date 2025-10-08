@@ -46,7 +46,9 @@ Developed by: RegisterNumber:*/
 
 **Timing Diagram**
 
-**Result:**
+**Result:**<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/6c23cfee-d607-465e-ab64-d58cfae33580" />
+<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/64391dd4-e2e6-4251-bb3f-b196da181dd6" />
+
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
